@@ -1,0 +1,33 @@
+#up {
+  background-color: rgb(48, 154, 161);
+  color: rgb(252, 250, 250);
+}
+#lp {
+  background-color: rgb(180, 161, 50);
+  color: rgb(252, 250, 250);
+}
+#rs {
+  background-color: rgb(31, 121, 53);
+  color: rgb(252, 250, 250);
+}
+#ct {
+  background-color: rgb(43, 228, 89);
+  color: rgb(252, 250, 250);
+}
+#clrt {
+  background-color: rgb(182, 42, 42);
+  color: rgb(252, 250, 250);
+}
+#dt {
+  background-color: rgb(90, 114, 218);
+}
+#prtext {
+  color: rgb(218, 60, 21);
+}
+#ptext {
+  color: black;
+  /* background-color: greenyellow; */
+}
+#about {
+  color: darkgreen;
+}
